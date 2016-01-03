@@ -1,0 +1,7 @@
+Why do I need to know about SCORM?
+The main benefit of SCORM is interoperability between eLearning software products. For example, if you design eLearning content using tools like Articulate, Captivate, Camtasia or Raptivity and you want to upload that content in to an LMS like Litmos, SCORM enables you to do that.
+
+The way it works is that content can be created in an eLearning authoring tool like those mentioned above, and then published by the tool in a SCORM conformant way. To the user it just looks like a Zip file when published to SCORM. However, that Zip package contains all of the files needed to make that eLearning content run and because it’s been packaged up in line with SCORM standards, it’s ready to be uploaded in to any SCORM-compliant LMS and then delivered out to learners.
+
+Защо трябва да знаем СКОРМ?
+Основното 
